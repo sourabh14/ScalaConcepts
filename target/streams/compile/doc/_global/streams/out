@@ -1,0 +1,26 @@
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation to /Users/admin/Desktop/programming/ScalaConcepts/target/scala-3.3.1/api...[0m
+[0m[[0m[0mdebug[0m] [0m[0mReturning already retrieved and compiled bridge: /Users/admin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.3.1/scala3-sbt-bridge-3.3.1.jar.[0m
+[0m[[0m[0mdebug[0m] [0m[0mCalling Dottydoc with arguments  (ScaladocInterface):[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-d[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/admin/Desktop/programming/ScalaConcepts/target/scala-3.3.1/api[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-project[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaConcepts[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_321.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_321.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_321.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_321.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_321.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_321.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_321.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_321.jdk/Contents/Home/jre/classes:/Users/admin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1.jar:/Users/admin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dummy_a8a870bf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/admin/Desktop/programming/ScalaConcepts/target/scala-3.3.1/classes/Animal.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/admin/Desktop/programming/ScalaConcepts/target/scala-3.3.1/classes/Dog.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/admin/Desktop/programming/ScalaConcepts/target/scala-3.3.1/classes/Runner.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/admin/Desktop/programming/ScalaConcepts/target/scala-3.3.1/classes/ScalaConceptsDemo1$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/admin/Desktop/programming/ScalaConcepts/target/scala-3.3.1/classes/StringUtils.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/admin/Desktop/programming/ScalaConcepts/target/scala-3.3.1/classes/scalaConceptsDemo1.tasty[0m
+[0m[[0m[33mwarn[0m] [0m[0mFollowing generated file paths might not be compatible with Jekyll:[0m
+[0m[[0m[33mwarn[0m] [0m[0m_empty_/Dog[0m
+[0m[[0m[33mwarn[0m] [0m[0m_empty_/StringUtils$[0m
+[0m[[0m[33mwarn[0m] [0m[0m_empty_/Animal[0m
+[0m[[0m[33mwarn[0m] [0m[0m_empty_/scalaConceptsDemo1[0m
+[0m[[0m[33mwarn[0m] [0m[0m_empty_/Runner[0m
+[0m[[0m[33mwarn[0m] [0m[0m_empty_[0m
+[0m[[0m[33mwarn[0m] [0m[0mIf using GitHub Pages consider adding a ".nojekyll" file.[0m
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation successful.[0m

@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/admin/Desktop/programming/ScalaConcepts/target/scala-3.3.1/scalaconcepts_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Dog.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/admin/Desktop/programming/ScalaConcepts/target/scala-3.3.1/classes/Dog.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Runner.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/admin/Desktop/programming/ScalaConcepts/target/scala-3.3.1/classes/Runner.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalaConceptsDemo1.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/admin/Desktop/programming/ScalaConcepts/target/scala-3.3.1/classes/scalaConceptsDemo1.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaConceptsDemo1$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/admin/Desktop/programming/ScalaConcepts/target/scala-3.3.1/classes/ScalaConceptsDemo1$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StringUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/admin/Desktop/programming/ScalaConcepts/target/scala-3.3.1/classes/StringUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaConceptsDemo1$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/admin/Desktop/programming/ScalaConcepts/target/scala-3.3.1/classes/ScalaConceptsDemo1$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StringUtils.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/admin/Desktop/programming/ScalaConcepts/target/scala-3.3.1/classes/StringUtils.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalaConceptsDemo1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/admin/Desktop/programming/ScalaConcepts/target/scala-3.3.1/classes/scalaConceptsDemo1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaConceptsDemo1$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/admin/Desktop/programming/ScalaConcepts/target/scala-3.3.1/classes/ScalaConceptsDemo1$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Runner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/admin/Desktop/programming/ScalaConcepts/target/scala-3.3.1/classes/Runner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Dog.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/admin/Desktop/programming/ScalaConcepts/target/scala-3.3.1/classes/Dog.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Animal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/admin/Desktop/programming/ScalaConcepts/target/scala-3.3.1/classes/Animal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StringUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/admin/Desktop/programming/ScalaConcepts/target/scala-3.3.1/classes/StringUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Animal.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/admin/Desktop/programming/ScalaConcepts/target/scala-3.3.1/classes/Animal.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
